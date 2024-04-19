@@ -1,0 +1,4 @@
+colorama==0.4.6
+pythonping==1.0.15
+dnspython==2.2.1
+argparse==1.4.0

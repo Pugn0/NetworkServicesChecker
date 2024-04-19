@@ -28,7 +28,7 @@ To install and run DNSandMXChecker, follow the steps below:
    
 2. Clone the repository:
    ```bash
-   git clone https://github.com/Pugn0/DNSandMXChecker.git
+   git clone https://github.com/Pugn0/NetworkServicesChecker.git
    
 3. Navigate to the project directory:
    ```bash

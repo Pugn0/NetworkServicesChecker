@@ -21,19 +21,24 @@ DNSandMXChecker is a command-line tool designed to check DNS and MX records for 
 
 To install and run DNSandMXChecker, follow the steps below:
 
-1. Clone the repository:
+1. (Optional) Set up a virtual environment:
+   ```bash
+   python -m venv env
+   source env/bin/activate  # On Windows use `env\Scripts\activate`
+   
+2. Clone the repository:
    ```bash
    git clone https://github.com/Pugn0/DNSandMXChecker.git
    
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    ```bash
    cd DNSandMXChecker
 
-3. Install the required dependencies:
+4. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
 
-4. Run the script:
+5. Run the script:
    ```bash
    python script.py -ALL yourdomain.com
    
